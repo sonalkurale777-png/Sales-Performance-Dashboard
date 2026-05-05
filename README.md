@@ -7,7 +7,7 @@ This project is a comprehensive analysis of retail sales and profitability from 
 ![Full Dashboard](images/Dashboard%20.png)
 
 ## 💡 Data Insights
-Based on the analysis of the dataset shown in [Image 05-05-26 at 4.09 PM.jpg]:
+
 * **Total Revenue:** The business generated **$350,500** in total sales.
 * **Profitability Leader:** The **Electronics** category maintains the highest profit margins, even when sales volume fluctuates.
 * **Regional Market Share:** The **East** and **West** regions are the primary revenue drivers.
