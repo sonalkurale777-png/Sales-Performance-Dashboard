@@ -35,8 +35,8 @@ Detailed breakdowns of the customer base and primary product categories.
 ## 🛠️ Technical Features
 * **Global Interactivity:** Implemented Year, Region, and Category filters to allow for deep-dive analysis.
 * **Data Cleaning:** Handled multi-year date formats and categorized product hierarchies.
-* **UI/UX Design:** Focused on a "Control Panel" layout for intuitive navigation as seen in [Image 05-05-26 at 4.04 PM.jpg].
+* **UI/UX Design:** Focused on a "Control Panel" layout for intuitive navigation as seen in.
 
 ## 🧰 Tools Used
 * **Tableau Desktop:** Data visualization and dashboard design.
-* **Microsoft Excel:** Initial data storage and cleaning [Image 05-05-26 at 4.09 PM.jpg].
+* **Microsoft Excel:** Initial data storage and cleaning.
